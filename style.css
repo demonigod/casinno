@@ -1,0 +1,439 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+/* aside */
+
+.big-first-ball{
+    width:100%;
+    height: 30vh;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.big-first-ball img{
+    height: 21vh; 
+
+}
+.left-balls{
+    width: 50%;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+}
+.right-balls{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+   align-items: center;
+}
+.ball1{
+    height: 4.89rem;
+     
+}
+.ball1 img{
+    height:4.67rem;
+}
+.ball2{
+    height: 5rem;
+    
+}
+.ball2 img{
+    height: 4.56rem;
+}
+.ball3{
+    height: 5rem;
+     
+     display: flex;
+     align-items: flex-end;
+}
+.ball3 img{
+    height: 4.56rem;
+}
+.ball4{
+    height: 5rem;
+    
+     display: flex;
+     align-items:center;
+}
+.ball4 img{
+    height: 4.56rem;
+}
+.ball5{
+    height: 4rem;
+     
+}
+.ball5 img{
+    height: 4.56rem;
+}
+.ball6{
+    height: 7rem;
+    
+     display: flex;
+     align-items: center;
+}
+.ball6 img{
+    height: 4.56rem;
+}
+.ball7{
+    height: 4.67rem;
+   
+}
+.ball7 img{
+    height: 4.56rem;
+}
+.ball8{
+    height: 4.78rem;
+  
+}
+.ball8 img{
+    height: 4.56rem;
+}
+.ball9{
+    height: 4rem;
+     
+}
+.ball9 img{
+    height: 4.56rem;
+}
+
+/* right balls */
+
+.ball11{
+    height: 6rem;
+     
+}
+.ball11 img{
+    height:4.67rem;
+}
+.ball12{
+    height: 5rem;
+     
+}
+.ball12 img{
+    height: 4.56rem;
+}
+.ball13{
+    height: 6rem;
+    
+     display: flex;
+     align-items: flex-end;
+}
+.ball13 img{
+    height: 4.56rem;
+}
+.ball14{
+    height: 4rem;
+   
+     display: flex;
+     align-items:center;
+}
+.ball14 img{
+    height: 4.56rem;
+}
+.ball15{
+    height: 6rem;
+    
+}
+.ball15 img{
+    height: 4.56rem;
+}
+.ball16{
+    height: 6rem;
+    
+     display: flex;
+     align-items: center;
+}
+.ball16 img{
+    height: 4.56rem;
+}
+.ball17{
+    height: 5rem;
+    
+}
+.ball17 img{
+    height: 4.56rem;
+}
+.ball18{
+    height: 6rem;
+    
+}
+.ball18 img{
+    height: 4.56rem;
+}
+.ball19{
+    height: 4srem;
+    
+}
+.ball19 img{
+    height: 4.56rem;
+}
+.containerm{
+    height: 168vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+  /* padding-right: unset;
+  padding-left: unset;
+  margin-right: unset;
+  margin-left:unset; */
+}
+
+.both-balls{
+    display: flex;
+width: 100%;
+}
+/* left part */
+.side-container{
+      height: 168vh;
+      width: 30%;
+      background:linear-gradient( rgba(92, 11, 11, 0.852) 100%, rgba(70, 17, 17, 0.852)100%),url("./images/leftpic.jpg") ;
+      background-size: cover;
+   
+}
+/* Right part */
+
+.first-sec{
+    height: 168vh;
+      width: 69.6%;
+      background:linear-gradient( rgba(194, 25, 25, 0.852) 100%, rgba(228, 52, 52, 0.852)100%),url("./images/dice.jpg") ;
+      background-size: cover;
+
+}
+/* right first box */
+.one{
+    width: 100%;
+    height: 26vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+height: 50%;
+width: 100%;
+display: flex;
+align-items: start;
+justify-content:center;
+
+}
+
+.heading  h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 38px;
+    color: white;
+}
+ .head-hot  h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: white;
+}
+ .head-cold  h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: white;
+}
+.red-black  h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 23px;
+    color: white;
+}
+.min-max h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 26px;
+    color: white;
+}
+.min-max{
+    height: 40%;
+    width: 95%;
+   
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* second container */
+
+.second{
+    height: 50vh;
+    width: 100%;
+    background: rgb(3, 3, 3);
+}
+/* Third */
+
+.hot-cold{
+    display: flex;
+    height: 45vh;
+    width:100%;
+
+    
+}
+
+/* popup */
+li{
+    position: relative;
+}
+.popup{
+    position: absolute;
+ top: 1.96rem;
+ left: 2.75rem;
+}
+.popup h3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+      background-color: white;
+      height: 18px;
+      width: 30px;
+      font-size: 13px;
+    color: black;
+    border-radius: 1px;
+
+}
+/* third left */
+.hot{
+    height: 45vh;
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* third left */
+.cold{
+    height: 45vh;
+    width:50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.head-hot{
+    height: 5vh;
+    width:100%;
+    background: rgb(255, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.head-cold{
+    height: 5vh;
+    width:100%;
+    background: rgb(0, 18, 182);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.rhot{
+    font-size: 1.45rem;
+}
+.rcold{
+    font-size: 1.45rem;
+}
+.list{
+    list-style: none;
+    height: 32vh;
+    width:20%;
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items:center;
+}
+li img{
+    height: 3.78rem;
+}
+.balls{
+    height: 40vh;
+    width:100%;
+    background:linear-gradient( rgba(194, 25, 25, 0.852) 100%, rgba(228, 52, 52, 0.862)100%),url("./images/hot.avif") ;
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+.ballscold{
+    height: 40vh;
+    width:100%;
+    background:linear-gradient( rgba(0, 46, 253, 0.82) 100%, rgba(0, 16, 243, 0.82)100%),url("./images/cold.jpg") ;
+    background-size: cover;
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+/* red black */
+.red-black{
+    height: 5vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient( rgba(224, 1, 1, 0.82) 100%, rgba(218, 12, 12, 0.82)100%),url("./images/red-black.jpg") ;
+    background-size: cover;
+}
+.red-black h1{
+    font-size: 20px;
+}
+.pehla h1{
+    font-size: 20px;
+}
+.percent{
+        height: 8vh;
+        width: 100%;
+        background:linear-gradient( rgba(224, 1, 1, 0.82) 100%, rgba(218, 12, 12, 0.82)100%),url("./images/cold.jpg") ;
+        background-size: cover;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pehla{
+    height: 8vh;
+    width:100%;
+    /* background:linear-gradient( rgba(224, 1, 1, 0.73) 100%, rgba(218, 12, 12, 0.82)100%) ; */
+    display: flex;
+justify-content: flex-start;
+align-items: center;
+}
+.duja{
+    height: 8vh;
+    width: 100%;
+    background:linear-gradient( rgba(0, 0, 0, 0.973) 100%, rgba(8, 0, 0, 0.982)100%) ;
+    display: flex;
+
+    
+}
+.blank{
+    height: 8vh;
+    width: 20%;
+    background-color: rgb(74, 190, 7);
+}
+
+.two-span {
+    height: 8vh;
+    width: 75%;
+    
+    display: flex;
+justify-content: flex-end;
+align-items: center;
+}
+.two-span h1{
+    font-size: 19px;
+}
+.last{
+  
+    height: 5rem;
+    width: 100%;
+    background-color: black;
+}

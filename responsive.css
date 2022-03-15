@@ -1,0 +1,371 @@
+@media only screen and (max-width: 768px) {
+
+     .heading h1 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 30px;
+     }
+    .min-max h2 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 22px;
+    }
+    .pehla {
+        height: 6vh;
+    }
+    .duja {
+        height: 6vh;}
+        .blank {
+            height: 6vh;
+        }
+        .red-black h1 {
+            font-size: 19px;
+          }
+
+.last {
+
+    height: 3rem;
+}
+
+/* popup */
+.popup h3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 14px;
+  width: 19px;
+  font-size: 11px;
+  color: black;
+}
+
+/* left side */
+.big-first-ball img {
+    height: 17vh;
+  }
+  .ball1 img {
+    height: 4rem;
+  }
+  .ball2 img {
+    height: 4rem;
+  }
+  .ball3 img {
+  height: 3.56rem;
+}
+.ball4 img {
+    height: 3.56rem;
+  }
+
+  .ball5 img {
+    height: 4rem;
+  }
+  .ball6 img {
+    height: 4rem;
+  }
+  .ball7 img {
+  height: 4rem;
+}
+.ball8 img {
+    height: 4rem;
+  }
+  .ball9 img {
+    height: 4rem;
+  }
+  .ball11 img {
+  height: 4rem;
+}
+.ball12 img {
+    height: 4rem;
+  }
+  .ball13 img {
+    height: 3.56rem;
+  }
+  .ball14 img {
+      height: 3.56rem;
+    }
+  .ball15 img {
+  height: 4rem;
+}
+.ball16 img {
+  height: 4rem;
+}
+.ball17 img {
+    height: 4rem;
+  }
+  .ball18 img {
+    height: 4rem;
+  }
+  .ball19 img {
+  height: 4rem;
+}
+}
+
+@media only screen and (max-width: 552px) {
+  
+
+ 
+ 
+
+     .heading h1 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 27px;
+     }
+    .min-max h2 {
+        font-family: 'Roboto', sans-serif;
+        font-size: 20px;
+    }
+    .rhot {
+        font-size: 1.25rem;
+      }
+      .rcold {
+        font-size: 1.25rem;
+      }
+      li img {
+        height: 3rem;
+      }
+      .pehla h1 {
+        font-size: 18px;
+      }
+      .two-span h1 {
+        font-size: 17px;
+      }
+      .two-span {
+        height: 6vh;
+        }
+    .pehla {
+        height: 5vh;
+    }
+    .duja {
+        height: 5vh;}
+        .blank {
+            height: 5vh;
+        }
+        .red-black h1 {
+            font-size: 17px;
+          }
+
+.last {
+
+    height: 2rem;
+}
+/* popup */
+.popup {
+  position: absolute;
+  top: 1.66rem;
+  left: 2.25rem;
+}
+
+/* new */
+.popup h2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 14px;
+  width: 26px;
+}
+
+/* left side */
+.big-first-ball img {
+    height: 10vh;
+  }
+  .ball1 img {
+    height: 3.34rem;
+  }
+  .ball2 img {
+    height: 3.34rem;
+  }
+  .ball3 img {
+    height: 3.34rem;
+}
+.ball4 img {
+  height: 3.34rem;
+  }
+
+  .ball5 img {
+    height: 3.34rem;
+  }
+  .ball6 img {
+    height: 3.34rem;
+  }
+  .ball7 img {
+    height: 3.34rem;
+}
+.ball8 img {
+  height: 3.34rem;
+  }
+  .ball9 img {
+    height: 3.34rem;
+  }
+  .ball11 img {
+    height: 3.34rem;
+}
+.ball12 img {
+  height: 3.34rem;
+  }
+  .ball13 img {
+    height: 3.34rem;
+  }
+  .ball14 img {
+    height: 3.34rem;
+    }
+  .ball15 img {
+    height: 3.34rem;
+}
+.ball16 img {
+  height: 3.34rem;
+}
+.ball17 img {
+  height: 3.34rem;
+  }
+  .ball18 img {
+    height: 3.34rem;
+  }
+  .ball19 img {
+    height: 3.34rem;
+}
+}
+
+@media only screen and (max-width: 442px) {
+
+    .containerm {
+        height: 168vh;
+        }
+        .side-container {
+            height: 168vh;
+        }
+        .first-sec {
+            height: 168vh;
+            }
+    .one {
+        width: 100%;
+        height: 23vh;
+    }
+    .heading h1 {
+       font-family: 'Roboto', sans-serif;
+       font-size: 25px;
+    }
+   .min-max h2 {
+       font-family: 'Roboto', sans-serif;
+       font-size: 16px;
+   }
+   .rhot {
+       font-size: 1rem;
+     }
+     .rcold {
+       font-size: 1rem;
+     }
+     .second {
+        height: 25vh;
+     }
+     li img {
+       height: 2.33rem;
+     }
+     .pehla h1 {
+       font-size: 14px;
+     }
+     .two-span h1 {
+       font-size: 14px;
+     }
+     .two-span {
+       height: 6vh;
+       }
+   .pehla {
+       height: 5vh;
+   }
+   .duja {
+       height: 5vh;}
+       .blank {
+           height: 5vh;
+       }
+       .red-black h1 {
+           font-size: 14px;
+         }
+
+.last {
+
+   height: 1rem;
+}
+
+/* left side */
+.big-first-ball img {
+   height: 10vh;
+ }
+ .ball1 img {
+   height: 2.83rem;
+ }
+ .ball2 img {
+   height:  2.83rem;
+ }
+ .ball3 img {
+ height:  2.83rem;
+}
+.ball4 img {
+   height: 2.83rem;
+ }
+
+ .ball5 img {
+   height: 2.83rem;
+ }
+ .ball6 img {
+   height: 2.83rem;
+ }
+ .ball7 img {
+ height:  2.83rem;
+}
+.ball8 img {
+   height: 2.83rem;
+ }
+ .ball9 img {
+   height: 2.83rem;
+ }
+ .ball11 img {
+ height:  2.83rem;
+}
+.ball12 img {
+   height:  2.83rem;
+ }
+ .ball13 img {
+   height:  2.83rem;
+ }
+ .ball14 img {
+     height:  2.83rem;
+   }
+ .ball15 img {
+ height: 2.83rem;
+}
+.ball16 img {
+ height: 2.83rem;
+}
+.ball17 img {
+   height:  2.83rem;
+ }
+ .ball18 img {
+   height:  2.83rem;
+ }
+ .ball19 img {
+ height: 2.83rem;
+}
+li img {
+  height: 2.83rem;
+  }
+  .popup h2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: 11px;
+    font-size: 9px;
+    width: 19px;
+  }
+
+}
+
+@media only screen and (max-width: 400px){
+  .popup {
+    position: absolute;
+    top: 1.36rem;
+    left: 1.67rem;
+  }
+}
